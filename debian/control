@@ -1,0 +1,15 @@
+Source: spelllisten
+Section: office
+Priority: optional
+Maintainer: David Lamhauge <davidlamhauge@gmail.com>
+Build-Depends: debhelper (>= 7.0.50~), phonon
+Standards-Version: 3.9.1
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Git: git://git.debian.org/collab-maint/spelllisten.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/spelllisten.git;a=summary
+
+Package: spelllisten
+Architecture: i386
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Listen to the word and Spell it correct
+ A software to help your spelling.

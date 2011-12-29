@@ -1,0 +1,11 @@
+Package: spelllisten
+Version: 0.8
+Source: spelllisten
+Section: office
+Priority: optional
+Maintainer: David Lamhauge <davidlamhauge@gmail.com>
+Depends: debhelper (>= 7.0.50~), phonon
+Standards-Version: 3.9.1
+Architecture: i386
+Description: Listen to the word and Spell it correct
+ A software to help your spelling.

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/lang">
+        <file alias="Dansk">lang/SListen_da.qm</file>
+        <file alias="Grønlandsk">lang/SListen_gl.qm</file>
+    </qresource>
+</RCC>
